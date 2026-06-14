@@ -47,7 +47,7 @@ export default function Index(){
                 </View>
                 <View>
                     <Text style={{fontSize:10, color:"#606770", marginTop:-7, marginBottom:3, fontWeight:"600"}}>
-                        You may receive notifications from us. <Text style={{color:"#14728c", fontWeight:"600"}}> Learn why we ask for your contact information</Text>
+                        You may receive notifications from us. <Text style={{color:"#1877f2", fontWeight:"600"}}> Learn why we ask for your contact information</Text>
                     </Text>
                 </View>
                 <View>
@@ -58,17 +58,17 @@ export default function Index(){
                 </View>
                 <View>
                     <Text style={{fontSize:10.5, color:"#606770", marginVertical:3, marginBottom:-5, fontWeight:"600"}}>
-                        People who use our service may have uploaded your contact information to Facebook. <Text style={{color:"#14728c", fontWeight:"600"}}> Learn more</Text>
+                        People who use our service may have uploaded your contact information to Facebook. <Text style={{color:"#1877f2", fontWeight:"600"}}> Learn more</Text>
                     </Text>
                     <Text style={{fontSize:10.5, color:"#606770", marginBottom:-5, marginVertical:10, fontWeight:"600"}}>
-                        By tapping Submit, you agree to create an account and to Facebook's <Text style={{color:"#14728c", fontWeight:"600"}}> Terms</Text>, <Text style={{color:"#14728c", fontWeight:"600"}}> Privacy Policy</Text> and <Text style={{color:"#14728c", fontWeight:"600"}}> Cookies Policy</Text>.
+                        By tapping Submit, you agree to create an account and to Facebook's <Text style={{color:"#1877f2", fontWeight:"600"}}> Terms</Text>, <Text style={{color:"#1877f2", fontWeight:"600"}}> Privacy Policy</Text> and <Text style={{color:"#1877f2", fontWeight:"600"}}> Cookies Policy</Text>.
                     </Text>
                      <Text style={{fontSize:10.5, color:"#606770", marginVertical:10, marginBottom:-6, fontWeight:"600"}}>
-                       The <Text style={{color:"#14728c", fontWeight:"600"}}> Privacy Policy</Text> describes the ways we can use the information we collect when you create an account. For example, we use this information to provide, personalise and improve our products, including ads.
+                       The <Text style={{color:"#1877f2", fontWeight:"600"}}> Privacy Policy</Text> describes the ways we can use the information we collect when you create an account. For example, we use this information to provide, personalise and improve our products, including ads.
                     </Text>
                 </View>
                 <View>
-                    <TouchableOpacity style={{backgroundColor:"#3182ec", padding:7, borderRadius:20, justifyContent:"center", marginTop:15}}>
+                    <TouchableOpacity style={{backgroundColor:"#1877f2", padding:7, borderRadius:20, justifyContent:"center", marginTop:15}}>
                         <Text style={{color:"#ddd", fontSize:10, fontWeight:"600", textAlign:"center"}}> Submit</Text>
                     </TouchableOpacity>
                     <TouchableOpacity style={{borderWidth:1, borderColor:"#ddd", padding:7, borderRadius:20, justifyContent:"center", marginTop:8}}>
